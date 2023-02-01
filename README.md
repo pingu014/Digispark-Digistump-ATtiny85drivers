@@ -1,7 +1,9 @@
 # 🌊 Digispark ATtiny85 Drivers for Arduino IDE - Digistump
 - Completed On: February 1th 2023
 
-Download [Digistump.Drivers.zip] and install DPinst64.exe
+## How to install drivers:
+
+- Download and extract [Digispark drivers](Digistump.Drivers.zip) and install DPinst64.exe
 
 ## 🐬 Find me here!
 - [![social](https://img.shields.io/static/v1?logo=twitter&link=https://twitter.com/m6sser&label=&message=m6sser&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://twitter.com/m6sser)
